@@ -42,7 +42,7 @@ const Home = () => {
           size="lg"
           variant="outline"
         >
-          View Dashboard
+          View User Dashboard
         </Button>
       ) : (
         <Stack>
